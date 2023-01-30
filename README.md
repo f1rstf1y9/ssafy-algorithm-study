@@ -39,7 +39,7 @@
 - description: 문제 주소 (option)
 - 터미널에서 작성법: 
 ```
-git commit -m "[BOJ] 9375 / 실버3" -m "https://www.acmicpc.net/problem/9375"
+git commit -m "[BOJ] 패션왕 김해빈 / 실버3" -m "https://www.acmicpc.net/problem/9375"
 ```
 <br />
 <br />
